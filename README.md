@@ -80,10 +80,19 @@ cv2.destroyAllWindows()
 ## Output:
 ### Input Grayscale Image and Color Image
 
+#### Grayscale Image
+![tomiegray](https://github.com/JananiSoundararajan/Histogram-of-an-images/assets/119477549/312c0fb2-e04c-4fef-bdf5-51842a114b29)
+
+#### Color Image
+![nannocolor](https://github.com/JananiSoundararajan/Histogram-of-an-images/assets/119477549/a28f0ffa-1dfe-483b-9e08-00341e2e5894)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
+![tomhis](https://github.com/JananiSoundararajan/Histogram-of-an-images/assets/119477549/ab330df5-d7ba-41c2-8c8c-5ada14d77651)
+![tommhis](https://github.com/JananiSoundararajan/Histogram-of-an-images/assets/119477549/3e79db06-ede8-4fb6-8d5a-84e2c800eeb6)
 
+![nannohis](https://github.com/JananiSoundararajan/Histogram-of-an-images/assets/119477549/8aac6865-8719-40c1-aa33-fa28500103dc)
+![nannohiss](https://github.com/JananiSoundararajan/Histogram-of-an-images/assets/119477549/289b94d4-b900-43d9-b1e0-a7ef2ec3db53)
 
 
 ### Histogram Equalization of Grayscale Image.
