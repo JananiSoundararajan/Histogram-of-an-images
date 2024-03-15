@@ -67,7 +67,7 @@ plt.show()
 cv2.waitKey(0)
 ```
 # Histogram equalization of Grayscale image
-```
+```python
 import cv2
 gray_image = cv2.imread("tomie.jpeg",0)
 cv2.imshow('Grey Scale Image',gray_image)
